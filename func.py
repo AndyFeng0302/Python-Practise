@@ -1,4 +1,4 @@
-def test()
+def test():
     return "Test"
 
 def sum(a, b, c):
